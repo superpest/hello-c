@@ -1,0 +1,1 @@
+gcc main.c add.c sub.c div.c -o main
